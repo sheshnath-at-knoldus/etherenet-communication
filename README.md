@@ -1,1 +1,1 @@
-# etherenet-communication
+# Ethernet-connection
